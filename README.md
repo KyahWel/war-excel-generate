@@ -1,4 +1,15 @@
 
+# CCCI WAR GENERATOR
+
+
+*“You must not lose faith in humanity. Humanity is an ocean; if a few drops of the ocean are dirty, the ocean does not become dirty.” - Spongebob Ep.4*
+
+
+## Features
+
+- Generate weekly assessment report in excel format
+
+
 ## Run Locally
 
 Clone the project
@@ -31,4 +42,10 @@ Start the server
 ```bash
   npm run dev
 ```
+
+
+## Authors
+
+- Angelo *"The forbidden one"* Silvestre ([@code-jas](https://github.com/code-jas))
+
 
